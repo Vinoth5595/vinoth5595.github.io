@@ -6,11 +6,11 @@ AOS.init();
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
-    title: "Software Development Intern",
+    title: "Associate - Projects",
     cardImage: "assets/images/experience-page/cognizant.png",
     place: "Chennai",
     time: "(Jan, 2021 - present)",
-    desp: "<li>Worked to Modernize the legacy application for Walmart using Microservices.</li> <li>My work is to modernize the legacy application using the cutting edge technologies.</li>",
+    desp: "<li>Working in the project to Modernize the legacy application for Walmart using Microservices.</li>",
   },
   {
     title: "Student Developer - Associate",
