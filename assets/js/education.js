@@ -5,64 +5,39 @@ AOS.init();
 const moocs = document.querySelector(".moocs");
 const moocscards = [
   {
-    title: "Data Science",
-    cardImage: "assets/images/education-page/coursera2.svg",
-    moocLink: "https://www.coursera.org/browse/data-science",
+    title: "Apache Kafka for Developers using Spring Boot",
+    cardImage: "assets/images/education-page/udemy2.svg",
+    moocLink: "https://udemy-certificate.s3.amazonaws.com/pdf/UC-8fa73861-4e18-4bd2-8637-c1c55338d2c6.pdf",
   },
   {
-    title: "Cryptography",
-    cardImage: "assets/images/education-page/udemy.svg",
-    moocLink: "https://www.udemy.com/course/cryptography-for-beginners/",
+    title: "Karate DSL: API Automation and Performance from Zero to Hero",
+    cardImage: "assets/images/education-page/udemy2.svg",
+    moocLink: "https://udemy-certificate.s3.amazonaws.com/pdf/UC-19357d0c-9022-4efd-bc1e-cdd515cd3c0c.pdf",
   },
   {
-    title: "Machine Learning",
-    cardImage: "assets/images/education-page/coursera2.svg",
-    moocLink: "https://www.coursera.org/learn/machine-learning",
+    title: "Master Java Unit Testing with Spring Boot & Mockito",
+    cardImage: "assets/images/education-page/udemy2.svg",
+    moocLink: "https://udemy-certificate.s3.amazonaws.com/pdf/UC-c4d1f527-5c63-4bea-b50a-28eca55eb52f.pdf",
   },
   {
-    title: "Introduction to HTML 5",
-    cardImage: "assets/images/education-page/udacity.svg",
-    moocLink: "https://www.udacity.com/course/intro-to-html-and-css--ud001",
+    title: "DevOps Project: CI/CD with Jenkins Ansible Docker Kubernetes",
+    cardImage: "assets/images/education-page/udemy2.svg",
+    moocLink: "https://udemy-certificate.s3.amazonaws.com/pdf/UC-a45334ff-31c5-4434-b53b-e9e08869ce8f.pdf",
   },
   {
-    title: "Introduction to CSS 3",
-    cardImage: "assets/images/education-page/udacity.svg",
-    moocLink: "https://www.udacity.com/course/intro-to-html-and-css--ud001",
+    title: "Full Stack: Angular & Spring Boot",
+    cardImage: "assets/images/education-page/udemy2.svg",
+    moocLink: "https://www.udemy.com/course/full-stack-angular-spring-boot-tutorial",
   },
   {
-    title: "Javascript",
-    cardImage: "assets/images/education-page/udacity.svg",
-    moocLink: "https://www.udacity.com/course/intro-to-javascript--ud803",
+    title: "Docker and Kubernetes",
+    cardImage: "assets/images/education-page/udemy2.svg",
+    moocLink: "https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/",
   },
   {
-    title: "Bootstrap 4",
-    cardImage: "assets/images/education-page/udemy.svg",
-    moocLink: "https://www.udemy.com/course/bootstrap-4-tutorials/",
-  },
-  {
-    title: "Intro to React",
-    cardImage: "assets/images/education-page/edx.svg",
-    moocLink: "https://www.edx.org/learn/reactjs",
-  },
-  {
-    title: "Intro to React Native",
-    cardImage: "assets/images/education-page/coursera2.svg",
-    moocLink: "https://www.coursera.org/lecture/react-native/introduction-to-react-native-Eax0D",
-  },
-  {
-    title: "NodeJS, Express and MongoDB",
-    cardImage: "assets/images/education-page/coursera2.svg",
-    moocLink: "https://www.coursera.org/learn/server-side-nodejs",
-  },
-  {
-    title: "XML-AJAX",
-    cardImage: "assets/images/education-page/udemy.svg",
-    moocLink: "https://www.udemy.com/course/xml-from-beginner-to-expert/",
-  },
-  {
-    title: "Data Structures & Algorithms",
-    cardImage: "assets/images/education-page/udacity.svg",
-    moocLink: "https://www.udacity.com/course/data-structures-and-algorithms-nanodegree--nd256",
+    title: "Master Microservices with Spring Boot and Spring Cloud",
+    cardImage: "assets/images/education-page/udemy2.svg",
+    moocLink: "https://www.udemy.com/course/microservices-with-spring-boot-and-spring-cloud/",
   },
 ];
 
