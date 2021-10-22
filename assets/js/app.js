@@ -17,8 +17,8 @@ let header = $(`
 
 <div class="collapse navbar-collapse " id="navbarSupportedContent">
   <ul class="navbar-nav ml-auto" id = "navbar-content">
-  <li class="nav-item nav-item-hover"><a class="nav-link" href="assets/docs/vinoth_manoharan.pdf" target="_blank">
-    <b style="color: cornflowerblue;">My Resume</b></a>
+  <li>
+  <button class="btn" onclick="window.location.href='/assets/docs/vinoth_manoharan.pdf';"><i class="fa fa-download"></i> Resume</button>
   </li>
 
    <li class="nav-item nav-item-hover"><a class="nav-link" href="index.html">Home</a></li>

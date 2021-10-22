@@ -988,3 +988,16 @@ form {
     -webkit-box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.2);
     -khtml-box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.2);
 }
+
+.btn {
+    background-color: DodgerBlue;
+    border: none;
+    color: white;
+    padding: 10px 15px;
+    cursor: pointer;
+    font-size: 20px;
+  }
+  
+  .btn:hover {
+    background-color: #bb86fc;
+  }
