@@ -6,10 +6,17 @@ AOS.init();
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
+    title: "Senior Software Engineer",
+    cardImage: "assets/images/experience-page/encora-logo.svg",
+    place: "Chennai",
+    time: "(Jan, 2022 - present)",
+    desp: "<li>Working with NeoGov to modernize their products</li>",
+  },
+  {
     title: "Associate - Projects",
     cardImage: "assets/images/experience-page/cognizant.png",
     place: "Chennai",
-    time: "(Jan, 2021 - present)",
+    time: "(Jan, 2021 - Jan, 2022)",
     desp: "<li>Working in the project to Modernize the legacy application for Walmart using Microservices.</li>",
   },
   {
