@@ -9,7 +9,7 @@ const exp = [
     title: "Senior Software Engineer",
     cardImage: "assets/images/experience-page/encora-logo.svg",
     place: "Chennai",
-    time: "(Jan, 2022 - present)",
+    time: "(Jan, 2022 - Present)",
     desp: "<li>Working with NeoGov to modernize their products</li>",
   },
   {
